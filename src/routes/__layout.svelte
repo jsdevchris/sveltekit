@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>😋😋😋😋😋 </p>
+	<p>Made in California 😋😋 </p>
 </footer>
 
 <style>
