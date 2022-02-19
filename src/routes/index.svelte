@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Awesome Svelte App</title>
 </svelte:head>
 
 <section>
@@ -19,11 +19,11 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		Svelte is the FUTURE. GET WITH IT!! 😋
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Made in California
 	</h2>
 
 	<Counter />
