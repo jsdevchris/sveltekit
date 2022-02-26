@@ -19,7 +19,7 @@
 			</picture>
 		</div>
 
-		Svelte is the FUTURE. GET WITH IT!! 😋
+		Svelte is the FUTURE. GET WITH IT! 😋
 	</h1>
 
 	<h2>
