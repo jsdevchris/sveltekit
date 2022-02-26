@@ -23,7 +23,7 @@
 	</h1>
 
 	<h2>
-		Made in California
+		Made in California.
 	</h2>
 
 	<Counter />
