@@ -19,7 +19,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>About this app</h1>
+	<h1>At Svelt we are changing the game up. ONE HAPPY DEVELOPER AT A TIME</h1>
 
 	<p>
 		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
