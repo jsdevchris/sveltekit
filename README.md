@@ -1,5 +1,5 @@
 # Svelte Application Demo
-This app was created with Svelte
+This app was created with Svelte.
 
 
 ## Developing
